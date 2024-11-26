@@ -163,7 +163,6 @@ cython_debug/
 
 # Too much large files
 dataset/test_og.zip
-*.png
 .DS_Store
 
 merged_test.csv
