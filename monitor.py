@@ -39,6 +39,7 @@ def monitor_kernel(kernel_name):
                 
                 if "complete" in status.lower():
                     print("\nKernel execution completed!")
+                    time.sleep(20)
                     subprocess.run(['kaggle', 'kernels', 'pull', kernel_name])
                     break
                 elif "error" in status.lower():
