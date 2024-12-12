@@ -1,0 +1,15 @@
+{
+  "id": "campanamattia/cluster",
+  "title": "CLUSTER",
+  "code_file": "cluster.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": ["campanamattia/dataset"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
