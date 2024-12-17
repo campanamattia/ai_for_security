@@ -1,7 +1,7 @@
 {
   "id": "campanamattia/xgboost",
   "title": "XGBOOST",
-  "code_file": "xgboost.ipynb",
+  "code_file": "xgboost_multi.ipynb",
   "language": "python",
   "kernel_type": "notebook",
   "is_private": "true",
