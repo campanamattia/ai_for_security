@@ -1,11 +1,11 @@
 {
   "id": "campanamattia/xgboost",
   "title": "XGBOOST",
-  "code_file": "xgboost_binary.ipynb",
+  "code_file": "xgboost_multi.ipynb",
   "language": "python",
   "kernel_type": "notebook",
   "is_private": "true",
-  "enable_gpu": "false",
+  "enable_gpu": "true",
   "enable_tpu": "false",
   "enable_internet": "true",
   "dataset_sources": ["campanamattia/dataset"],
